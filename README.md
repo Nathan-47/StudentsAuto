@@ -34,7 +34,7 @@ With react I enjoy that I can create my own database that are stored as objects 
 
 ### MATERIAL UI INSTALLATION
 - [material-ui](https://material-ui.com/getting-started/installation/)
--
+
 <br />
 
 install material-ui
@@ -56,6 +56,7 @@ install react-bootstrap
 
     npm install react-bootstrap bootstrap@4.6.0     
 
+<br />
 
 ### aos INSTALLATION
 - [animate on scroll (aos)]( https://github.com/michalsnik/aos)
