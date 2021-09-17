@@ -16,8 +16,16 @@ My main focus along with the car slider was on using Material-UI for a majority 
 
 With react I enjoy that I can create my own database that are stored as objects in the data.js file. There is no process of having to use an API key to gain access to an online API site or mess with endpoints it’s a simple call from the data.js file and use a const to call for the properties from the file array of the cars.
 
+<br />
+
 ## Improvements for future features
-- #
+- I would like to add a filter that gives the user an option of their age and the amount there willing to spend on a car and allow the filter to find the best matched car for them. 
+
+- When planning this site, I was going to use an API from another site so I could extract cars with information to come with it such as the car picture, engine size etc. I thought that would be a lot of repetition plus I couldn’t find any API sites that contain any JSON car object data to extract to the app. Therefore, I used my own JSON data file to create car specifications and images. 
+
+- I’m still new to SCSS and throughout this project I was starting to notice that my styling files was not as neat as before and files are not organised as well as they could be. I know that in the future I have to keep my styles clean so that others are able to read them.
+
+- A comment section would be good to include. I have done this before but this was when I created a blog site. Doing this would give users the opportunity to write a comment and it stay for others to see. 
 
 <br />
 
