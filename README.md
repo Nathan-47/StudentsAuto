@@ -58,7 +58,7 @@ install react-bootstrap
 
 <br />
 
-### aos INSTALLATION
+### AOS INSTALLATION
 - [animate on scroll (aos)]( https://github.com/michalsnik/aos)
 
 <br />
